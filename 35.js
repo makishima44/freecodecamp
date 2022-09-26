@@ -1,4 +1,4 @@
-et count = 0;
+let count = 0;
 
 function cc(card) {
   // Only change code below this line
